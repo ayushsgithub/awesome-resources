@@ -755,7 +755,6 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [JavaScript by Example - Level 1 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQW9tY3eqBrmbY7CqxNrW-g3)
 - :video_camera: [JavaScript by Example - Level 2 by Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWab0g3W6ZaDM6_Buh20EWM)
 - :video_camera: [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
-- :books: [20+ Web Projects With Vanilla JavaScript](https://vanillawebprojects.com)
 - :bulb: [JavaScript plugins - jQuery & Vanilla](http://www.unheap.com)
 - :video_camera: [JavaScript tutorial for Beginners 😎](https://www.youtube.com/watch?v=lI1ae4REbFM&t=1s)
 - :books: [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
